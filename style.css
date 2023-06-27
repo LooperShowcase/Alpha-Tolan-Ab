@@ -1,0 +1,36 @@
+body {
+    background: black;
+  }
+  p {
+    float:left;
+
+    color: whitesmoke;
+  }
+  h1 {
+    float:left;
+
+    color: #fbfbfb;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f8f7f7;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(5, 5, 5);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #b08a8a;
+  }
